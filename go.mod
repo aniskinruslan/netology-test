@@ -1,3 +1,3 @@
-module github.com/aniskinruslan/netology-test/
+module github.com/aniskinruslan/netology-test
 
 go 1.17
